@@ -1,4 +1,4 @@
-module github.com/syncapod/tart/protoc-gen-tart
+module github.com/lollipopai/tart/protoc-gen-tart
 
 go 1.17
 
